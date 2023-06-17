@@ -1,0 +1,30 @@
+2023-06-02T08:58:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\Requests\src\Transport\Curl.php روی خط 205
+
+2023-06-02T09:05:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\google-listings-and-ads\src\API\Site\Controllers\Ads\ReportsController.php روی خط 13
+
+2023-06-02T14:53:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\google-listings-and-ads\vendor\google\protobuf\src\Google\Protobuf\Internal\GPBUtil.php روی خط 664
+
+2023-06-02T14:54:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\google-listings-and-ads\vendor\google\protobuf\src\Google\Protobuf\Internal\FieldDescriptor.php روی خط 35
+
+2023-06-02T14:54:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\google-listings-and-ads\src\DB\Migration\AbstractMigration.php روی خط 8
+
+2023-06-02T14:54:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\elementor\includes\autoloader.php روی خط 293
+
+2023-06-02T14:54:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\functions.php روی خط 4550
+
+2023-06-02T14:54:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\functions.php روی خط 4550
+
+2023-06-02T14:54:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\persistence\src\Persistence\Event\LifecycleEventArgs.php روی خط 3
+
+2023-06-02T14:55:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\woocommerce\includes\admin\wc-meta-box-functions.php روی خط 13
+
+2023-06-02T14:55:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-videopress\src\class-block-editor-extensions.php روی خط 173
+
+2023-06-02T14:55:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\IXR\class-IXR-date.php روی خط 75
+
+2023-06-02T14:55:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-admin\includes\deprecated.php روی خط 332
+
+2023-06-02T14:55:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\class-wpdb.php روی خط 2431
+
+2023-06-02T14:56:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\class-wpdb.php روی خط 2431
+

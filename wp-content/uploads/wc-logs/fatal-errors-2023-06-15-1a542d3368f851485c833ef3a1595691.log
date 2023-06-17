@@ -1,0 +1,6 @@
+2023-06-15T19:31:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\woocommerce\src\Internal\Admin\Notes\TrackingOptIn.php روی خط 10
+
+2023-06-15T19:33:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\themes\woodmart\inc\integrations\elementor\elements\class-tabs.php روی خط 18
+
+2023-06-15T19:35:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\Requests\src\Transport\Curl.php روی خط 205
+

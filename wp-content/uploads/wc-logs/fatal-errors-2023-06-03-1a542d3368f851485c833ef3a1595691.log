@@ -1,0 +1,12 @@
+2023-06-03T08:20:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\elementor\includes\template-library\sources\local.php روی خط 18
+
+2023-06-03T08:20:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\elementor\modules\announcements\classes\utils.php روی خط 9
+
+2023-06-03T08:20:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-admin\includes\plugin.php روی خط 332
+
+2023-06-03T08:20:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\assets\script-loader-packages.min.php روی خط 1
+
+2023-06-03T08:20:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CheckoutExpressPaymentBlock.php روی خط 15
+
+2023-06-03T08:21:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\elementor\includes\widgets\tabs.php روی خط 4
+

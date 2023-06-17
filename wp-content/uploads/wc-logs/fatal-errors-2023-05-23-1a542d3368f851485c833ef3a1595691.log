@@ -1,0 +1,4 @@
+2023-05-23T15:44:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractDynamicBlock.php روی خط 93
+
+2023-05-23T20:04:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\elementor\includes\autoloader.php روی خط 293
+

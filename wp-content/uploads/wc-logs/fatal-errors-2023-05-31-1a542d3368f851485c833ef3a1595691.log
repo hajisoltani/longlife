@@ -1,0 +1,4 @@
+2023-05-31T08:04:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\class-wpdb.php روی خط 2431
+
+2023-05-31T08:48:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\Requests\src\Transport\Curl.php روی خط 534
+

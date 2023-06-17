@@ -1,0 +1,6 @@
+2023-06-04T08:23:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\widgets\class-wp-widget-links.php روی خط 189
+
+2023-06-04T08:25:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-content\plugins\elementor\core\upgrade\custom-tasks-manager.php روی خط 7
+
+2023-06-04T16:19:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\longlife\wp-includes\Requests\src\Transport\Curl.php روی خط 205
+

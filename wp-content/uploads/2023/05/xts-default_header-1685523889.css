@@ -1,0 +1,41 @@
+:root{
+	--wd-top-bar-h: 0.001px;
+	--wd-top-bar-sm-h: 0.001px;
+	--wd-top-bar-sticky-h: 0.001px;
+
+	--wd-header-general-h: 0.001px;
+	--wd-header-general-sm-h: 0.001px;
+	--wd-header-general-sticky-h: 0.001px;
+
+	--wd-header-bottom-h: 0.001px;
+	--wd-header-bottom-sm-h: 0.001px;
+	--wd-header-bottom-sticky-h: 0.001px;
+
+	--wd-header-clone-h: 0.001px;
+}
+
+
+
+
+
+@media (min-width: 1025px) {
+	
+	
+	
+	
+	}
+
+@media (max-width: 1024px) {
+	
+	
+	
+	
+	}
+		
+.whb-top-bar {
+	background-color: rgba(130, 183, 53, 1);
+}
+
+.whb-general-header {
+	border-color: rgba(129, 129, 129, 0.2);border-bottom-width: 1px;border-bottom-style: solid;
+}
